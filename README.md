@@ -18,8 +18,9 @@ Perguntas respondidas
 3.	Qual o faturamento total da base?
 4.	Quanto os Top 10 representam (%) do total?
 5.	Quantos clientes fizeram apenas 1 pedido?
-________________________________________
-🧠 O que eu quis analisar
+
+O que eu quis analisar
+
 A principal ideia foi entender:
 •	Se a receita é concentrada em poucos clientes
 •	Se existe dependência de grandes contas
