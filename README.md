@@ -1,6 +1,5 @@
 Análise de Faturamento – Base AdventureWorks
 
-Contexto
 Neste projeto utilizei a base AdventureWorks para responder algumas perguntas simples de negócio relacionadas a faturamento e comportamento de clientes.
 
 O objetivo foi praticar:
